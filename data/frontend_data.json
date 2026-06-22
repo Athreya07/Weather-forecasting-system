@@ -1,0 +1,871 @@
+{
+  "current": {
+    "temperature": 25,
+    "feels_like": 25,
+    "humidity": 32,
+    "pressure": 1011,
+    "wind_speed": 10,
+    "cloud_cover": 7,
+    "visibility": 10,
+    "dew_point": 11,
+    "precipitation": 0.0,
+    "uv_index": 7,
+    "max_temp": 35,
+    "min_temp": 23,
+    "timestamp": "2022-03-11 23:00:00",
+    "is_monsoon": 0,
+    "is_summer": 1
+  },
+  "monthly": [
+    {
+      "month": 1,
+      "avg_temp": 22.9,
+      "avg_humidity": 42.1,
+      "avg_rain": 0.0,
+      "max_temp": 29.9,
+      "min_temp": 17.4,
+      "month_name": "Jan"
+    },
+    {
+      "month": 2,
+      "avg_temp": 25.1,
+      "avg_humidity": 34.5,
+      "avg_rain": 0.0,
+      "max_temp": 32.6,
+      "min_temp": 19.1,
+      "month_name": "Feb"
+    },
+    {
+      "month": 3,
+      "avg_temp": 28.0,
+      "avg_humidity": 30.9,
+      "avg_rain": 0.0,
+      "max_temp": 35.5,
+      "min_temp": 21.7,
+      "month_name": "Mar"
+    },
+    {
+      "month": 4,
+      "avg_temp": 30.0,
+      "avg_humidity": 35.8,
+      "avg_rain": 0.0,
+      "max_temp": 38.0,
+      "min_temp": 23.6,
+      "month_name": "Apr"
+    },
+    {
+      "month": 5,
+      "avg_temp": 29.6,
+      "avg_humidity": 50.2,
+      "avg_rain": 0.0,
+      "max_temp": 36.8,
+      "min_temp": 24.2,
+      "month_name": "May"
+    },
+    {
+      "month": 6,
+      "avg_temp": 26.0,
+      "avg_humidity": 74.6,
+      "avg_rain": 0.5,
+      "max_temp": 30.0,
+      "min_temp": 23.4,
+      "month_name": "Jun"
+    },
+    {
+      "month": 7,
+      "avg_temp": 23.9,
+      "avg_humidity": 84.7,
+      "avg_rain": 0.9,
+      "max_temp": 26.4,
+      "min_temp": 22.4,
+      "month_name": "Jul"
+    },
+    {
+      "month": 8,
+      "avg_temp": 23.5,
+      "avg_humidity": 85.7,
+      "avg_rain": 0.6,
+      "max_temp": 26.4,
+      "min_temp": 21.6,
+      "month_name": "Aug"
+    },
+    {
+      "month": 9,
+      "avg_temp": 23.8,
+      "avg_humidity": 83.1,
+      "avg_rain": 0.5,
+      "max_temp": 27.9,
+      "min_temp": 21.1,
+      "month_name": "Sep"
+    },
+    {
+      "month": 10,
+      "avg_temp": 24.8,
+      "avg_humidity": 67.8,
+      "avg_rain": 0.2,
+      "max_temp": 29.8,
+      "min_temp": 21.0,
+      "month_name": "Oct"
+    },
+    {
+      "month": 11,
+      "avg_temp": 23.9,
+      "avg_humidity": 56.8,
+      "avg_rain": 0.1,
+      "max_temp": 29.5,
+      "min_temp": 19.4,
+      "month_name": "Nov"
+    },
+    {
+      "month": 12,
+      "avg_temp": 22.5,
+      "avg_humidity": 48.2,
+      "avg_rain": 0.0,
+      "max_temp": 29.1,
+      "min_temp": 17.4,
+      "month_name": "Dec"
+    }
+  ],
+  "yearly": [
+    {
+      "year": 2008,
+      "avg_temp": 23.33,
+      "total_rain": 0.7,
+      "avg_humidity": 42.25
+    },
+    {
+      "year": 2009,
+      "avg_temp": 25.42,
+      "total_rain": 2298.1,
+      "avg_humidity": 61.61
+    },
+    {
+      "year": 2010,
+      "avg_temp": 24.97,
+      "total_rain": 2363.7,
+      "avg_humidity": 65.27
+    },
+    {
+      "year": 2011,
+      "avg_temp": 25.08,
+      "total_rain": 2071.0,
+      "avg_humidity": 57.05
+    },
+    {
+      "year": 2012,
+      "avg_temp": 25.4,
+      "total_rain": 1369.3,
+      "avg_humidity": 54.92
+    },
+    {
+      "year": 2013,
+      "avg_temp": 25.12,
+      "total_rain": 2154.6,
+      "avg_humidity": 58.4
+    },
+    {
+      "year": 2014,
+      "avg_temp": 25.39,
+      "total_rain": 1818.5,
+      "avg_humidity": 55.63
+    },
+    {
+      "year": 2015,
+      "avg_temp": 25.35,
+      "total_rain": 1355.6,
+      "avg_humidity": 57.4
+    },
+    {
+      "year": 2016,
+      "avg_temp": 25.12,
+      "total_rain": 2282.0,
+      "avg_humidity": 57.4
+    },
+    {
+      "year": 2017,
+      "avg_temp": 25.45,
+      "total_rain": 2330.0,
+      "avg_humidity": 55.79
+    },
+    {
+      "year": 2018,
+      "avg_temp": 25.83,
+      "total_rain": 1649.3,
+      "avg_humidity": 53.68
+    },
+    {
+      "year": 2019,
+      "avg_temp": 25.53,
+      "total_rain": 2778.2,
+      "avg_humidity": 59.32
+    },
+    {
+      "year": 2020,
+      "avg_temp": 25.43,
+      "total_rain": 2654.6,
+      "avg_humidity": 59.22
+    },
+    {
+      "year": 2021,
+      "avg_temp": 25.33,
+      "total_rain": 1773.8,
+      "avg_humidity": 58.37
+    },
+    {
+      "year": 2022,
+      "avg_temp": 23.43,
+      "total_rain": 12.5,
+      "avg_humidity": 37.54
+    }
+  ],
+  "recent_72h": [
+    {
+      "date_time": "2022-03-09 00:00:00",
+      "tempC": 25,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-09 01:00:00",
+      "tempC": 25,
+      "humidity": 36,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-09 02:00:00",
+      "tempC": 24,
+      "humidity": 39,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-09 03:00:00",
+      "tempC": 23,
+      "humidity": 41,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 24
+    },
+    {
+      "date_time": "2022-03-09 04:00:00",
+      "tempC": 23,
+      "humidity": 41,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 24
+    },
+    {
+      "date_time": "2022-03-09 05:00:00",
+      "tempC": 23,
+      "humidity": 41,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 3,
+      "FeelsLikeC": 24
+    },
+    {
+      "date_time": "2022-03-09 06:00:00",
+      "tempC": 22,
+      "humidity": 41,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 1,
+      "FeelsLikeC": 24
+    },
+    {
+      "date_time": "2022-03-09 07:00:00",
+      "tempC": 23,
+      "humidity": 39,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-09 08:00:00",
+      "tempC": 26,
+      "humidity": 37,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-09 09:00:00",
+      "tempC": 28,
+      "humidity": 35,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 14,
+      "FeelsLikeC": 27
+    },
+    {
+      "date_time": "2022-03-09 10:00:00",
+      "tempC": 30,
+      "humidity": 31,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 13,
+      "FeelsLikeC": 30
+    },
+    {
+      "date_time": "2022-03-09 11:00:00",
+      "tempC": 33,
+      "humidity": 28,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 12,
+      "FeelsLikeC": 32
+    },
+    {
+      "date_time": "2022-03-09 12:00:00",
+      "tempC": 34,
+      "humidity": 24,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 12,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-09 13:00:00",
+      "tempC": 34,
+      "humidity": 22,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-09 14:00:00",
+      "tempC": 35,
+      "humidity": 21,
+      "precipMM": 0.0,
+      "pressure": 1008,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 34
+    },
+    {
+      "date_time": "2022-03-09 15:00:00",
+      "tempC": 35,
+      "humidity": 20,
+      "precipMM": 0.4,
+      "pressure": 1007,
+      "windspeedKmph": 3,
+      "FeelsLikeC": 34
+    },
+    {
+      "date_time": "2022-03-09 16:00:00",
+      "tempC": 33,
+      "humidity": 23,
+      "precipMM": 0.4,
+      "pressure": 1007,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 32
+    },
+    {
+      "date_time": "2022-03-09 17:00:00",
+      "tempC": 32,
+      "humidity": 26,
+      "precipMM": 0.5,
+      "pressure": 1008,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-09 18:00:00",
+      "tempC": 31,
+      "humidity": 29,
+      "precipMM": 0.0,
+      "pressure": 1008,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 30
+    },
+    {
+      "date_time": "2022-03-09 19:00:00",
+      "tempC": 28,
+      "humidity": 31,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 28
+    },
+    {
+      "date_time": "2022-03-09 20:00:00",
+      "tempC": 27,
+      "humidity": 33,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 27
+    },
+    {
+      "date_time": "2022-03-09 21:00:00",
+      "tempC": 26,
+      "humidity": 36,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-09 22:00:00",
+      "tempC": 25,
+      "humidity": 36,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-09 23:00:00",
+      "tempC": 25,
+      "humidity": 37,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 00:00:00",
+      "tempC": 24,
+      "humidity": 37,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 01:00:00",
+      "tempC": 24,
+      "humidity": 37,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 02:00:00",
+      "tempC": 24,
+      "humidity": 38,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 03:00:00",
+      "tempC": 23,
+      "humidity": 38,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 04:00:00",
+      "tempC": 24,
+      "humidity": 39,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 05:00:00",
+      "tempC": 24,
+      "humidity": 40,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 06:00:00",
+      "tempC": 22,
+      "humidity": 42,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 07:00:00",
+      "tempC": 23,
+      "humidity": 38,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-10 08:00:00",
+      "tempC": 27,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 11,
+      "FeelsLikeC": 27
+    },
+    {
+      "date_time": "2022-03-10 09:00:00",
+      "tempC": 29,
+      "humidity": 31,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 14,
+      "FeelsLikeC": 28
+    },
+    {
+      "date_time": "2022-03-10 10:00:00",
+      "tempC": 31,
+      "humidity": 28,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 16,
+      "FeelsLikeC": 29
+    },
+    {
+      "date_time": "2022-03-10 11:00:00",
+      "tempC": 33,
+      "humidity": 25,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 13,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-10 12:00:00",
+      "tempC": 32,
+      "humidity": 22,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 12,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-10 13:00:00",
+      "tempC": 33,
+      "humidity": 22,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 11,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-10 14:00:00",
+      "tempC": 33,
+      "humidity": 22,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 32
+    },
+    {
+      "date_time": "2022-03-10 15:00:00",
+      "tempC": 33,
+      "humidity": 23,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 32
+    },
+    {
+      "date_time": "2022-03-10 16:00:00",
+      "tempC": 33,
+      "humidity": 25,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-10 17:00:00",
+      "tempC": 31,
+      "humidity": 27,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 29
+    },
+    {
+      "date_time": "2022-03-10 18:00:00",
+      "tempC": 29,
+      "humidity": 28,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 28
+    },
+    {
+      "date_time": "2022-03-10 19:00:00",
+      "tempC": 28,
+      "humidity": 30,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 27
+    },
+    {
+      "date_time": "2022-03-10 20:00:00",
+      "tempC": 27,
+      "humidity": 32,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-10 21:00:00",
+      "tempC": 26,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 3,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-10 22:00:00",
+      "tempC": 26,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 4,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-10 23:00:00",
+      "tempC": 26,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-11 00:00:00",
+      "tempC": 26,
+      "humidity": 33,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-11 01:00:00",
+      "tempC": 26,
+      "humidity": 34,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 02:00:00",
+      "tempC": 25,
+      "humidity": 35,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 03:00:00",
+      "tempC": 24,
+      "humidity": 36,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 04:00:00",
+      "tempC": 24,
+      "humidity": 37,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 05:00:00",
+      "tempC": 24,
+      "humidity": 38,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 06:00:00",
+      "tempC": 23,
+      "humidity": 40,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 4,
+      "FeelsLikeC": 24
+    },
+    {
+      "date_time": "2022-03-11 07:00:00",
+      "tempC": 23,
+      "humidity": 36,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 6,
+      "FeelsLikeC": 25
+    },
+    {
+      "date_time": "2022-03-11 08:00:00",
+      "tempC": 27,
+      "humidity": 33,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-11 09:00:00",
+      "tempC": 29,
+      "humidity": 30,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 27
+    },
+    {
+      "date_time": "2022-03-11 10:00:00",
+      "tempC": 31,
+      "humidity": 26,
+      "precipMM": 0.0,
+      "pressure": 1013,
+      "windspeedKmph": 11,
+      "FeelsLikeC": 30
+    },
+    {
+      "date_time": "2022-03-11 11:00:00",
+      "tempC": 32,
+      "humidity": 22,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-11 12:00:00",
+      "tempC": 34,
+      "humidity": 18,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-11 13:00:00",
+      "tempC": 34,
+      "humidity": 18,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-11 14:00:00",
+      "tempC": 35,
+      "humidity": 17,
+      "precipMM": 0.0,
+      "pressure": 1008,
+      "windspeedKmph": 8,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-11 15:00:00",
+      "tempC": 35,
+      "humidity": 16,
+      "precipMM": 0.0,
+      "pressure": 1007,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 33
+    },
+    {
+      "date_time": "2022-03-11 16:00:00",
+      "tempC": 34,
+      "humidity": 20,
+      "precipMM": 0.0,
+      "pressure": 1007,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 32
+    },
+    {
+      "date_time": "2022-03-11 17:00:00",
+      "tempC": 33,
+      "humidity": 23,
+      "precipMM": 0.0,
+      "pressure": 1008,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 31
+    },
+    {
+      "date_time": "2022-03-11 18:00:00",
+      "tempC": 31,
+      "humidity": 27,
+      "precipMM": 0.0,
+      "pressure": 1008,
+      "windspeedKmph": 5,
+      "FeelsLikeC": 29
+    },
+    {
+      "date_time": "2022-03-11 19:00:00",
+      "tempC": 30,
+      "humidity": 28,
+      "precipMM": 0.0,
+      "pressure": 1009,
+      "windspeedKmph": 7,
+      "FeelsLikeC": 28
+    },
+    {
+      "date_time": "2022-03-11 20:00:00",
+      "tempC": 29,
+      "humidity": 29,
+      "precipMM": 0.0,
+      "pressure": 1010,
+      "windspeedKmph": 9,
+      "FeelsLikeC": 28
+    },
+    {
+      "date_time": "2022-03-11 21:00:00",
+      "tempC": 27,
+      "humidity": 30,
+      "precipMM": 0.0,
+      "pressure": 1012,
+      "windspeedKmph": 12,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-11 22:00:00",
+      "tempC": 26,
+      "humidity": 31,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 11,
+      "FeelsLikeC": 26
+    },
+    {
+      "date_time": "2022-03-11 23:00:00",
+      "tempC": 25,
+      "humidity": 32,
+      "precipMM": 0.0,
+      "pressure": 1011,
+      "windspeedKmph": 10,
+      "FeelsLikeC": 25
+    }
+  ]
+}
