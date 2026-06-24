@@ -208,3 +208,6 @@ DEBUG=false
 ## License
 
 MIT © 2024 — Portfolio project for educational purposes.
+
+GitHub: https://github.com/Athreya07/Weather-forecasting-system
+Live Demo: https://weather-forecasting-system-murex.vercel.app/
